@@ -12,9 +12,14 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
-Mastering process
-Mastering machine
+.mastering complexity;1983-1992
+The up to then dominion of hardware over software ended. Personal computers arrived and opened the fields of computer applications. The software development process would now comprehensively address analysis and design from the specification. Graphical user interface and visual programming brought software closer to customers. The use of structured family and data modeling methodologies was extended . Several CASE tools facilitated software development. However, data modeling and function modeling still followed separate paths. These two modeling paths converged in object-oriented  methods like early on in structured methodologies, they were first introduced in coding and design, and finally in specification and analysis. This approach enables efficient reuse of object-oriented software and thus improves building software productivity.
+
+Mastering process;(1968–1982)
+The first software crisis in this stage led to the birth of software engineering . The aim was to reduce risk during development and improve quality and productivity. Software development methodologies appeared to define and monitor software building. An important contribution of this stage was the formal modeling approach that enables implementation automation. But for industry, this formal approach was unfeasible due to a lack of tools and training. Furthermore, formal methods become unmanageable for large system development. In conclusion, in this stage, the need to focus on predesign phases and the use of more or less formal models for software specification began to appear. A number of structured methods, such as Software Requirement Engineering Methodology , and the Structured Analysis and Design Technique were developed allowing the development of specification documents for business management software.
+
+Mastering machine;(1956–1967)
+The term software engineering had not yet been coined. Code development was strongly influenced by outside forces. The main purpose of any piece of software was to optimize exploitation of the limited hardware resources. The first compilers were defined; operating systems were noninteractive. These primitive environments continued evolving up to the definition of the first low-level Computer Aided Software Engineering tools  facilitating interactive editing, compiling, and debugging. The lack of software development methods led to high risk and the origin of a new stage is easily noticeable.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
